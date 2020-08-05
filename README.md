@@ -21,4 +21,4 @@ Welcome to my GitHub ! <br>I'm Mikhael Bailly, a web development student in Mast
 
 ![Mikheull's github stats](https://github-readme-stats.vercel.app/api?username=mikheull&hide=issues&title_color=66a80f&icon_color=2b8a3e&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikheull&hide=css&title_color=66a80f&icon_color=2b8a3e)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikheull&hide=css&title_color=66a80f&icon_color=2b8a3e)
