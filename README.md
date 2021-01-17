@@ -16,7 +16,5 @@ Welcome to my GitHub page! <br>I'm Mikhael Bailly, a web development student in 
 - Developer at [Luqa](https://github.com/LuqaEducation)
 - Personal project : WeekDev
 
-:muscle: **I challenge myself on WeekDev** <br>
+:muscle: **I challenge myself on WeekDev** <br><br>
 [![#1 Velib x Waze](https://github-readme-stats.vercel.app/api/pin/?username=Mikheull&repo=wd-velib)](https://github.com/Mikheull/wd-velib)
-
-![Mikheull's github stats](https://github-readme-stats.vercel.app/api?username=mikheull&hide=issues&title_color=66a80f&icon_color=2b8a3e&count_private=true&show_icons=true)
