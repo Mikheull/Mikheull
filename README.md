@@ -13,7 +13,7 @@ Welcome to my GitHub page! <br>I'm Mikhael Bailly, a web development student in 
 - NextJS
 - Cloud deployment
 
-👨‍ **💻I'm working on**
+👨‍💻 **I'm working on**
 - Student at [MyDigitalSchool](https://mydigitalschool.com/)
 - Backend Developer at [Subskill](https://subskill.com)
 - Developer at [Luqa](https://github.com/LuqaEducation)
