@@ -18,6 +18,5 @@ Welcome to my GitHub page! <br>I'm Mikhael Bailly, a web development student in 
 
 :muscle: **I challenge myself on WeekDev** <br><br>
 
-[![#3 SpaceX](https://github-readme-stats.vercel.app/api/pin/?username=Mikheull&repo=wd-quizzzzz)](https://github.com/Mikheull/wd-quizzzzz)
 [![#2 SpaceX](https://github-readme-stats.vercel.app/api/pin/?username=Mikheull&repo=wd-spacex)](https://github.com/Mikheull/wd-spacex)
 [![#1 Velib x Waze](https://github-readme-stats.vercel.app/api/pin/?username=Mikheull&repo=wd-velib)](https://github.com/Mikheull/wd-velib)
