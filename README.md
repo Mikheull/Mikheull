@@ -13,7 +13,6 @@ Welcome to my GitHub page! <br>I'm Mikhael Bailly, a fullstack web developer.
 👨‍💻 **I'm working on**
 - Independent web developer
 - Personal project : WeekDev #3
-- Founder of [TiPancarte](https://www.etsy.com/fr/shop/TiPancarte)
 
 :muscle: **I challenge myself on WeekDev** <br><br>
 
