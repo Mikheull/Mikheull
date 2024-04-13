@@ -1,18 +1,18 @@
 <h1 align="left">Hey 👋🏽, I'm Mika</h1>
 
 <p align="left">
-Welcome to my GitHub page! <br>I'm Mikhael Bailly, a fullstack web developer.
-<br>I develop some apps in Javascript (nodejs, react, nextsJS ...)
+Welcome to my GitHub page! <br>I'm Mikhael Bailly, a web developer at @agiris C2J.
+<br>I develop some apps in Javascript (nodejs, react, nextsJS ...) and PHP website
 </p>
 
 🔭 **I'm currently learning**
-- NextJS
-- AWS
+- SvelteJS
+- Laravel
 - Cloud deployment
 
 👨‍💻 **I'm working on**
-- Independent web developer
-- Personal project : WeekDev #3
+- Web Developer at @Isagri
+- Personal project for collaboration
 
 :muscle: **I challenge myself on WeekDev** <br><br>
 
